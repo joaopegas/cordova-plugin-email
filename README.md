@@ -1,5 +1,7 @@
 # Cordova Email Plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hypery2k/cordova-email-plugin.svg)](https://greenkeeper.io/)
+
 
 [![Build Status](https://travis-ci.org/hypery2k/cordova-email-plugin.svg?branch=master)](https://travis-ci.org/hypery2k/cordova-email-plugin) [![Build status](https://ci.appveyor.com/api/projects/status/d1g8ygx20or6htpg?svg=true)](https://ci.appveyor.com/project/hypery2k/cordova-email-plugin) [![npm version](https://badge.fury.io/js/cordova-plugin-email.svg)](http://badge.fury.io/js/cordova-plugin-email) [![Dependency Status](https://david-dm.org/hypery2k/cordova-email-plugin.svg)](https://david-dm.org/hypery2k/cordova-email-plugin) [![devDependency Status](https://david-dm.org/hypery2k/cordova-email-plugin/dev-status.svg)](https://david-dm.org/hypery2k/cordova-email-plugin#info=devDependencies) 
 
